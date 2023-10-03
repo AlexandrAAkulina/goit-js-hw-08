@@ -1,13 +1,14 @@
-import Player from '@vimeo/player';
-import { throttle } from 'lodash';
+// import Player from '@vimeo/player';
+// import { throttle } from 'lodash';
 
 
-const iframe = document.querySelector('#vimeo-player');
-const key = 'videoplayer-current-time';
-const player = new Vimeo.Player(iframe);
+// const iframe = document.querySelector('#vimeo-player');
+// const key = 'videoplayer-current-time';
+// const player = new Vimeo.Player(iframe);
 
-    const onPlay = function(data) {
-    // data is an object containing properties specific to that event
-};
+//     const onPlay = function(data) {
+    
+    
+// };
 
-player.on('play', onPlay);
+// player.on('play', onPlay);
